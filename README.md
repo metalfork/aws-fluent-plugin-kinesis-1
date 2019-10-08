@@ -203,7 +203,7 @@ Integer, default 5 * 1024*1024. The number of max size of making batch request f
 HTTP proxy for API calling. Default `nil`.
 
 ### endpoint
-API endpoint URL, for testing. Defalut `nil`.
+API endpoint URL, for testing. Default `nil`.
 
 ### ssl_verify_peer
 Boolean. Disable if you want to verify ssl conncetion, for testing. Default `true`.
